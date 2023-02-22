@@ -1,0 +1,28 @@
+
+
+java:S4165"iRemove this useless assignment; "phoneNumber" already holds the assigned value along all execution paths.(º©ÛÍ
+
+java:S4165"fRemove this useless assignment; "lastName" already holds the assigned value along all execution paths.(•÷Åùÿÿÿÿ
+‚
+java:S4165"gRemove this useless assignment; "firstName" already holds the assigned value along all execution paths.(ŞæŞ¨ùÿÿÿÿ
+
+java:S4165"fRemove this useless assignment; "employed" already holds the assigned value along all execution paths.(ç”‚ÿÿÿÿÿ
+{
+java:S4165"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(£©èÚşÿÿÿÿ
+€
+java:S4165"eRemove this useless assignment; "married" already holds the assigned value along all execution paths.(Ş·Ãúÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(€ëìøÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ÊÃ€–
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(§ãÄ§
+J
+java:S1656"/Remove or correct this useless self-assignment.(•÷Åùÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(Ş·Ãúÿÿÿÿ
+E
+java:S1656"/Remove or correct this useless self-assignment.(º©ÛÍ
+J
+java:S1656"/Remove or correct this useless self-assignment.(£©èÚşÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(ŞæŞ¨ùÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(ç”‚ÿÿÿÿÿ
