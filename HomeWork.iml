@@ -94,5 +94,20 @@
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-http:4.8.0" level="project" />
     <orderEntry type="library" name="Maven: dev.failsafe:failsafe:3.3.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-manager:4.8.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-java:7.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-core:7.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-gherkin:7.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-gherkin-messages:7.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:gherkin:26.0.3" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:messages:21.0.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:tag-expressions:5.0.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-expressions:16.1.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:datatable:7.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-plugin:7.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:docstring:7.11.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:html-formatter:20.2.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:junit-xml-formatter:0.1.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:ci-environment:9.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apiguardian:apiguardian-api:1.1.2" level="project" />
   </component>
 </module>
