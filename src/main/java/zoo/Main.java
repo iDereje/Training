@@ -7,11 +7,9 @@ Dog tim = new Dog(true,false,"Brown","Mammal");
 Cat tom = new Cat(true,false,"White/Silver","Mammal");
 
 
-
-
-
-tim.walk();
 tim.sound();
+tom.climb();
+animal.mammal();
 
 
   }

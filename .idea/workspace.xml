@@ -4,16 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f35816b-b7ca-42f0-b635-6b7b17e87c0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Features/login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumber/LoginSteps.java" afterDir="false" />
+    <list default="true" id="1f35816b-b7ca-42f0-b635-6b7b17e87c0b" name="Changes" comment="&quot;Features\Cucumber\GuruTest&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_ci_environment_9_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_core_7_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_expressions_16_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_7_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_messages_7_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_java_7_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_plugin_7_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_7_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_docstring_7_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_gherkin_26_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_html_formatter_20_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_junit_xml_formatter_0_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_messages_21_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_tag_expressions_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37bcc960aa9c70e68b481607022f69843f093d66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7ce2d51debeba30639e044c17caa857fca3b5ed2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85a8f1ea18a1a25435b088a8838388f0f12b00b3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/915ff948a96d1d2a15819ff9d6875c138cc690e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9bfbf4b5059ae4e51aa5afe912ddfb0444e09d95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b70dd582bc72c98166fb93656d86d00aac8a95c4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cdd4c07b3d6df682ed8c8b1608177ef782fbc6d3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42f14eed67363b772c360bb86b07919b9bf9e195" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7beb88b571df298fc52ed785a315c195b9a98f0c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/porm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/porm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/GuruTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/GuruTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/GuruTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/GuruTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zoo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zoo/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zoo/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zoo/Cat.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +51,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,6 +76,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;last_directory_selection&quot;: &quot;C:/Users/derej/IdeaProjects/Training/src/test/java&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/derej/IdeaProjects/Training&quot;,
@@ -70,7 +96,7 @@
       <recent name="selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: login">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="GuruTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="selenium.GuruTest" />
       <module name="HomeWork" />
@@ -84,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="youtube_selenium.Swag" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zoo.Main" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium.*" />
+          <option name="PATTERN" value="zoo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Cucumber Java.Feature: login" />
         <item itemvalue="Application.GuruTest" />
         <item itemvalue="Cucumber Java.Scenario: Check login is successful with valid credentials" />
         <item itemvalue="Application.YoutubeTest" />
-        <item itemvalue="Application.Swag" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +193,19 @@
       <option name="presentableId" value="Default" />
       <updated>1676220130790</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Features\Cucumber\GuruTest&quot;">
+      <created>1677277628964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677277628964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Features\Cucumber\GuruTest&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Features\Cucumber\GuruTest&quot;" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Training$GoogleTest.ic" NAME="GoogleTest Coverage Results" MODIFIED="1676502383787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

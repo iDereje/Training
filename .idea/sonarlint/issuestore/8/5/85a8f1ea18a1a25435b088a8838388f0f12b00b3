@@ -1,0 +1,13 @@
+
+P
+java:S1481".Remove this unused "birthYear" local variable.(×‚ôôûÿÿÿÿ8³°À¹å0
+P
+java:S1481".Remove this unused "firstName" local variable.(ù¦²ûÿÿÿÿ8³°À¹å0
+J
+java:S1481"-Remove this unused "lastName" local variable.(æã…¥8´°À¹å0
+_
+java:S1854"BRemove this useless assignment to local variable "englishStudent".(¨Éˆº8´°À¹å0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(È“ö}8µ°À¹å0
+P
+java:S1481"3Remove this unused "englishStudent" local variable.(¨Éˆº8¶°À¹å0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËïôØøÿÿÿÿ8»°À¹å0
